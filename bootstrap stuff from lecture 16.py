@@ -53,3 +53,8 @@ class BootCI:
         self.n_boot = 0
         self.boot_stat = None
         self.ci_level = .95
+
+
+
+
+#HI
